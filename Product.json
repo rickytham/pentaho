@@ -1,0 +1,123 @@
+{
+  "id": "6223903a-d8c5-4e7e-af24-cc90967feb61",
+  "type": "Product",
+  "dateCreated": {
+    "value": "2016-08-08T10:18:16Z",
+    "type": "DateTime"
+  },
+  "dateModified": {
+    "value": "2016-08-08T10:18:16Z",
+    "type": "DateTime"
+  },
+  "source": {
+    "value": "http://www.example.com",
+    "type": "URL"
+  },
+  "dataProvider": {
+    "value": "OperatorA",
+    "type": "Text"
+  },
+  "schemaVersion": {
+    "value": "1.0",
+    "type": "Text"
+  },
+  "productType": {
+    "type": "Reference",
+    "value": "27242396-032d-11e7-83f3-83fdf070a882"
+  },
+  "supplierName": {
+    "type": "Text",
+    "value": "Acme Products, Inc."
+  },
+  "category": {
+    "value": [
+      "Vegetables"
+    ],
+    "type": "List"
+  },
+  "gtin": {
+    "type": "Text",
+    "value": "01234567890"
+  },
+  "productName": {
+    "type": "Text",
+    "value": "Paprika, dried, powdered"
+  },
+  "description": {
+    "type": "Text",
+    "value": "Natural paprika grown in Suffolk"
+  },
+  "manufacturerName": {
+    "type": "Text",
+    "value": "Paprika Company"
+  },
+  "brand": {
+    "type": "Text",
+    "value": "All natural Suffolk spice"
+  },
+  "inPackageWidth": {
+    "type": "QuantitativeValue",
+    "value": {
+      "unitText": "inch",
+      "unitCode": "INH",
+      "value": 25
+    }
+  },
+  "inPackageDepth": {
+    "type": "QuantitativeValue",
+    "value": {
+      "unitText": "inch",
+      "unitCode": "INH",
+      "value": 5
+    }
+  },
+  "inPackageHeight": {
+    "type": "QuantitativeValue",
+    "value": {
+      "unitText": "inch",
+      "unitCode": "INH",
+      "value": 15
+    }
+  },
+  "netWeight": {
+    "type": "QuantitativeValue",
+    "value": {
+      "unitText": "grammes",
+      "unitCode": "GRM",
+      "value": 2500
+    }
+  },
+  "grossWeight": {
+    "type": "QuantitativeValue",
+    "value": {
+      "unitText": "grammes",
+      "unitCode": "GRM",
+      "value": 3000
+    }
+  },
+  "countryOfOrigin": {
+    "type": "Text",
+    "value": "GB"
+  },
+  "gpcCategoryCode": {
+    "type": "Text",
+    "value": "00786613"
+  },
+  "Image": {
+    "type": "URL",
+    "value": [
+      "http://example.com/productImg1.jpg",
+      "http://example.com/productImg2.jpg"
+    ]
+  },
+  "growerURL": {
+    "type": "URL",
+    "value": "http://www.example.com"
+  },
+  "manufactuer": {
+    "type": "Organization",
+    "value": {
+      "name": "Paprika Company"
+    }
+  }
+}
